@@ -14,10 +14,14 @@ Thank you for visiting :)
 
 ### Golang  
 - [DennisWon's](https://github.com/denniswon/evm-indexer)
+- [DipDup](https://dipdup.io/docs)
 
 ### Rust
 - [Eabz's](https://github.com/eabz/evm-indexer)
 - [Building a Blockchain Indexer for EVM-based Chains in Rust](https://medium.com/@ahsan.javaiid/building-a-blockchain-indexer-for-evm-based-chains-in-rust-fbb321f3c4a8)
+
+### Node/Typescript/JS
+- [Near Lake Framework](https://docs.near.org/build/data-infrastructure/lake-framework/building-indexers/js-lake-indexer)
 
 ### Youtube Videos
 - [Indexing Ethereum: When and How to Build an Indexer by Ryan Smith | Devcon SEA](https://youtu.be/WgBab6kamtg?si=MS4NyShdmgQIYXZL) - Nov2024
@@ -26,3 +30,7 @@ Thank you for visiting :)
 
 ### Subgraphs
 - [Web3 Indexing: The Ultimate Guide](https://hackernoon.com/web3-indexing-the-ultimate-guide-no-prior-knowledge-required)
+
+### Awesome Lists
+- [Awesome List of EVM indexing tools and libraries](https://o-az.github.io/awesome-evm-indexer/) - (by o-az)
+- 
