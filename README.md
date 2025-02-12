@@ -11,6 +11,7 @@ Thank you for visiting :)
 
 ### Python
 - [OmchainFoundation's](https://github.com/OmchainFoundation/evm-indexer)
+- [Apibara Python Template](https://github.com/apibara/python-indexer-template)
 
 ### Golang  
 - [DennisWon's](https://github.com/denniswon/evm-indexer)
