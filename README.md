@@ -30,7 +30,7 @@ Thank you for visiting :)
 - [Indexing Entire 2.4 Billion Transactions on Ethereum in 10 Hours | Devcon SEA](https://youtu.be/MQsj9MWBz1M?si=PPr74tT9I5RYmUq0) - Nov2024
 - [Blockchain Analytics 101: Building an Indexer from Scratch by Benjamin Memisevic | Devcon Bogotá](https://youtu.be/4akZVr3FuWg?si=VZRsIw1EZ1D_fLBa) - Oct2022
 - [Mantle 🛠 EVM Data Engineering](https://www.youtube.com/watch?v=01eW6FuT79k) - Oct2023 
-- 
+- [Rust x Ethereum Day - Cryo and Data Endgame](https://www.youtube.com/watch?v=1DFxuspPE2g) - Sep2023
 
 ### Subgraphs
 - [Web3 Indexing: The Ultimate Guide](https://hackernoon.com/web3-indexing-the-ultimate-guide-no-prior-knowledge-required)
